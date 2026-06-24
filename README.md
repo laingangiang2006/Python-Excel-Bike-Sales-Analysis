@@ -26,7 +26,7 @@ Datasets for the first two projects are sourced from Microsoft's courses on Cour
 | **CSV** | Raw data storage and portability |
 | **VSCode** | Text edittor |
 | **Jupyter Notebook** | Jupyter notebook on VSCode |
-| **Python and Python Libraries (Pandas, Matplotlib, Seaborn)** | Data analysis, visualization for bike sales data including product categories, order trends, and customer behavior |
+| **Python and Python Libraries (Pandas, Matplotlib, Seaborn)** | Data analysis, visualization |
 
 ---
 
