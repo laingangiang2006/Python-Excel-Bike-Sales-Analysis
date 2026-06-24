@@ -1,5 +1,9 @@
 # Bike Sales Analysis
 
+This project explores a bike sales dataset through end-to-end data analysis — from raw data cleaning to visual insights — using both Excel and Python.
+
+---
+
 ## Dataset Overview
 
 Datasets for the first two projects are sourced from Microsoft's courses on Coursera, called ["Harnessing the Power of Data with Power BI"](https://www.coursera.org/learn/harnessing-the-power-of-data-with-power-bi?specialization=microsoft-power-bi-data-analyst).
