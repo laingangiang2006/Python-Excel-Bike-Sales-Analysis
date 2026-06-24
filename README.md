@@ -2,7 +2,7 @@
 
 ## Dataset Overview
 
-Datasets for the first two projects are sourced from Microsoft's courses on Coursera called ["Harnessing the Power of Data with Power BI"](https://www.coursera.org/learn/harnessing-the-power-of-data-with-power-bi?specialization=microsoft-power-bi-data-analyst).
+Datasets for the first two projects are sourced from Microsoft's courses on Coursera, called ["Harnessing the Power of Data with Power BI"](https://www.coursera.org/learn/harnessing-the-power-of-data-with-power-bi?specialization=microsoft-power-bi-data-analyst).
 
 ---
 
@@ -33,4 +33,4 @@ Datasets for the first two projects are sourced from Microsoft's courses on Cour
 
 This project is open for educational and personal use. 
 
-Dataset credit: Datasets for the first two projects are sourced from Microsoft's courses on Coursera called ["Harnessing the Power of Data with Power BI"](https://www.coursera.org/learn/harnessing-the-power-of-data-with-power-bi?specialization=microsoft-power-bi-data-analyst).
+Dataset credit: Datasets for the first two projects are sourced from Microsoft's courses on Coursera, called ["Harnessing the Power of Data with Power BI"](https://www.coursera.org/learn/harnessing-the-power-of-data-with-power-bi?specialization=microsoft-power-bi-data-analyst).
