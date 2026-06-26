@@ -1,4 +1,4 @@
-# End-to-End Bike Sales Analysis
+# End-to-End Exploratory Data Analysis (EDA) Bike Sales Analysis
 
 This project explores a bike sales dataset through end-to-end data analysis from raw data cleaning to visual insights, using Excel and Python.
 
