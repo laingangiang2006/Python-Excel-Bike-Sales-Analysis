@@ -1,6 +1,6 @@
 # Bike Sales Analysis
 
-This project explores a bike sales dataset through end-to-end data analysis from raw data cleaning to visual insights, using Excel, Python and Canva.
+This project explores a bike sales dataset through end-to-end data analysis from raw data cleaning to visual insights, using Excel, Python.
 
 ---
 
